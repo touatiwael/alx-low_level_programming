@@ -1,4 +1,8 @@
 #include <stdio.h>
+/**
+ * main - A program that prints the size of various compyter types
+ * Return 0 (Success)
+ */
 int main(void){
 	char a;
 	int b;
